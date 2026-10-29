@@ -66,3 +66,7 @@ Limitações
 Trabalha apenas com números inteiros.
 Aceita no máximo 100 valores. Se o dados.txt tiver mais que isso, ou texto inválido, o programa recusa o arquivo para não perder dados.
 A alteração de valor é feita pela posição (começando em 1).
+Estrutura do repositório
+.
+├── atividade03.c
+└── README.md
